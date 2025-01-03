@@ -1,4 +1,6 @@
 <!--
+
+로그인수정(가정)
 Copyright (C) Daniel Stenberg, <daniel@haxx.se>, et al.
 
 SPDX-License-Identifier: curl
